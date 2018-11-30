@@ -1,6 +1,6 @@
 {
   "short_name": "MD Editor",
-  "name": "Markdown Editor",
+  "name": "Simple Markdown Editor",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#0b1423",
